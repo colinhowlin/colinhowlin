@@ -1,0 +1,11 @@
+db.sqlite3
+.idea/
+*.pyc
+blog/__pycache__/
+colinhowlin/__pycache__/
+contact/__pycache__/
+shop/__pycache__/
+portfolio/__pycache__/
+home/__pycache__/
+
+
